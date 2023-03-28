@@ -1,0 +1,17 @@
+---
+title: "Deliverables"
+---
+
+
+### Capstone deliverables timeline
+
+| Due date    | Deliverable                                              |
+|-------------|----------------------------------------------------------|
+| 2023-04-14  | Submit outline of Technical Documentation                |
+| 2023-05-05  | Complete draft of Technical Documentation and Repository |
+| 2023-05-19  | Final presentation program abstract and acknowledgements |
+| 2023-05-26  | Editable file of closed captioning script                |
+| 2023-06-01  | Share link or file of Final Presentation slides          |
+| 2023-06-02  | Capstone Final Presentations                             |
+| 2023-06-09  | Revised Technical Documentation                          |
+

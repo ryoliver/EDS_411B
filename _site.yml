@@ -9,10 +9,8 @@ navbar:
       href: index.html
     - text: "Topics"
       href: topics.html
-    - text: "Assignments"
-      href: assignments.html
-    - text: "Resources"
-      href: resources.html
+    - text: "Deliverables"
+      href: deliverables.html
     - icon: fab fa-github
       href: https://github.com/ryoliver/EDS_411B
 output:

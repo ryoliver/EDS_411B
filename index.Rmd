@@ -15,11 +15,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-```{r, out.width = "100%", fig.cap = "Update this image by dropping your new image into the img folder of the project, then open the index.Rmd & change the path to point to the new image. Image: Mississippi River south of Memphis, TN, from USGS shared on Unsplash (https://unsplash.com/photos/35Z2ylLRCO8)."}
+```{r, out.width = "100%", fig.cap = "Image: Santa Barbara, CA from Unsplash (https://unsplash.com/photos/2g378eDWjes)."}
 
-# UPDATE IMAGE HERE 
-# or copy/paste this code elsewhere, updating the file path, to add other images to your site!
-knitr::include_graphics("img/usgs_sat.jpeg")
+knitr::include_graphics("img/sb.jpg")
 ```
 
 ## Welcome to EDS 411B
