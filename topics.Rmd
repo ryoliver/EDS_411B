@@ -7,4 +7,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Week 1
--   [Access lecture slides]
+-   [Access lecture slides](slides/week1.pdf)
