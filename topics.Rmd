@@ -8,3 +8,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Week 1
 -   [Access lecture slides](slides/week1.pdf)
+
+# Week 2
+-   [Access lecture slides](slides/week2.pdf)
+
+# Week 4
+-   [Access lecture slides](slides/week4.pdf)
+
+# Week 5
+-   [Access lecture slides](slides/week5.pdf)
+
+# Week 6
+-   [Access lecture slides](slides/week6.pdf)
